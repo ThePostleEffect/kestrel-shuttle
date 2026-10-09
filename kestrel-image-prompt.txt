@@ -1,0 +1,12 @@
+Generator: built-in image_gen tool
+Purpose: illustrative concept art, not dimensionally validated engineering geometry.
+
+Use case: stylized-concept
+Asset type: high-quality aerospace concept art for an engineering design brief, single landscape image.
+Primary request: A credible new compact reusable civilian shuttle called KESTREL, in low Earth orbit, showing its distinctive transformation from a compact runway-return lifting body into a solar-powered orbital workspace.
+Subject: a 15-metre-long rounded lifting-body spaceplane, broad rounded blunt nose, small protected cockpit windows, ivory-white upper thermal blankets, dark charcoal reusable heat-shield belly and blunt leading edges, short fixed swept wings of approximately 8-metre total span, two modest canted tail fins. A compact recessed dorsal mission bay with a closed payload cassette, a small folded robotic inspection arm at its edge, and a protected circular docking hatch behind the cockpit. Only small orbital maneuvering nozzles at the aft end; no huge ascent engine bells.
+Orbital configuration: from two dorsal shoulder roots extend symmetrical engineered three-leaf rigid folding solar arrays, each about 40 square metres, dark blue-black photovoltaic surfaces with visible hinges and support booms, total deployed span around 25 metres. The panels are physically separate from the short aerodynamic wings and stow onto the dorsal upper surface for return. Two pale radiator door panels flanking the central mission bay remain visually distinct from the photovoltaic arrays. Mechanisms should look plausibly buildable with real hinges and struts. The solar arrays are large relative to the compact craft.
+Scene/backdrop: broad curved blue Earth limb with fine atmosphere, ocean and cloud fields below, deep black space above. No station or other spacecraft.
+Style/medium: refined photorealistic aerospace industrial design visualization with carefully modeled engineering surfaces, clean physically plausible lighting, restrained wear.
+Composition/framing: landscape, elevated three-quarter forward view, nose angled toward lower left, full craft and entire arrays visible with generous clearance all around, strong dimensional clarity. Earth occupies lower two thirds, craft dominates frame.
+Constraints: conceptual civilian spacecraft; no weapons, no sci-fi glowing drives, no rockets firing, no air intakes, no giant panoramic glass, no decorative glowing lights, no text, logos, labels, watermark, or national insignia. Illustrative geometry, not a technical blueprint.
